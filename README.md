@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/478cyash" target="blank"><img src="https://img.shields.io/twitter/follow/478cyash?logo=twitter&style=for-the-badge" alt="478cyash" /></a> </p>
 
+<tr>
+  <td>
 - 🔭 I’m currently pursuing my **Bachelor's in Computer Science and Engineering**
 
 - 🌱 I’m currently learning **Web-development and ML.**
@@ -18,9 +20,10 @@
 - 📫 How to reach me **yash.478@gmail.com**
 
 - ⚡ My motto **Shramena Sarvam Sadhyam**
-
-- <a href="https://app.daily.dev/Organ1c"><img src="https://api.daily.dev/devcards/916c55b41cdc475887096d129bbbf00d.png?r=h6p" width="400" alt="Yasharth's Dev Card"/></a> 
-
+  </td>
+<td><a href="https://app.daily.dev/Organ1c"><img src="https://api.daily.dev/devcards/916c55b41cdc475887096d129bbbf00d.png?r=h6p" width="400" alt="Yasharth's Dev Card"/></a>
+  </td
+</tr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/478cyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="478cyash" height="30" width="40" /></a>
