@@ -1,7 +1,7 @@
 
 -------------------------------------------------------------------
 
-<h1 align="center">Hi👋, I'm Organ1c</h1>
+<h1 align="center">Hi👋, I'm Yasharth</h1>
 <h3 align="center">Kartavyam Anvatma</h3>
 
 
